@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+  <head>
+
+  </head>
+  <body>
+    <div id="chart"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.6.1/d3.min.js" integrity="sha512-MefNfAGJ/pEy89xLOFs3V6pYPs6AmUhXJrRlydI/9wZuGrqxmrdQ80zKHUcyadAcpH67teDZcBeS6oMJLPtTqw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+function BarChart(data, {
+  x = (d, i) => i,
+  y = d => d,
+  title,
+  marginTop = 20,
+  marginRight = 0,
+  marginBottom = 30,
+  marginLeft = 40,
+  width = 640,
+  height = 400,
+  xDomain,
+  xRange = [marginLeft, width - marginRight],
+  yType = d3.scaleLinear,
+  yDomain,
+  yRange = [height - marginBottom, marginTop],
+  xPadding = 0.25,
+  yFormat,
+  yLabel,
+  color = "currentColor"
+} = {}) {
+  const X = d3.map(data, x)
+  const Y = d3.map(data, y)
+
+  if (xDomain === undefined) xDomain = X
+  if (yDomain === undefined) yDomain = [0, d3.max(Y)]
+  xDomain = new d3.InternSet(xDomain)
+
+  const I = d3.range(X.length).filter(i => xDomain.has(X[i]))
+
+  const xScale = d3.scaleBand(xDomain, xRange).padding(xPadding)
+  const yScale = yType(yDomain, yRange)
+  const xAxis = d3.axisBottom(xScale).tickSizeOuter(0)
+  const yAxis = d3.axisLeft(yScale).ticks(height / 40, yFormat)
+
+  if (title === undefined) {
+    const formatValue = yScale.tickFormat(100, yFormat)
+    title = i => `${X[i]}\n${formatValue(Y[i])}`
+  } else {
+    const O = d3.map(data, d => d)
+    const T = title
+    title = i => T(O[i], i, data)
+  }
+
+  const svg = d3.create("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .attr("viewBox", [0, 0, width, height])
+      .attr("style", "max-width: 100%; height: auto; height: intrinsic;")
+
+  svg.append("g")
+      .attr("transform", `translate(${marginLeft},0)`)
+      .call(yAxis)
+      .call(g => g.select(".domain").remove())
+      .call(g => g.selectAll(".tick line").clone()
+          .attr("x2", width - marginLeft - marginRight)
+          .attr("stroke-opacity", 0.1))
+      .call(g => g.append("text")
+          .attr("x", -marginLeft)
+          .attr("y", 10)
+          .attr("fill", "currentColor")
+          .attr("text-anchor", "start")
+          .text(yLabel))
+
+  const bar = svg.append("g")
+      .attr("fill", color)
+    .selectAll("rect")
+    .data(I)
+    .join("rect")
+      .attr("x", i => xScale(X[i]))
+      .attr("y", i => yScale(Y[i]))
+      .attr("height", i => yScale(0) - yScale(Y[i]))
+      .attr("width", xScale.bandwidth())
+
+  if (title) bar.append("title")
+      .text(title)
+
+  svg.append("g")
+      .attr("transform", `translate(0,${height - marginBottom})`)
+      .call(xAxis)
+
+  return svg.node()
+}
+
+alphabet = [
+    {letter:"九州",frequency:0.08},
+    {letter:"四国",frequency:0.09},
+    {letter:"中国",frequency:0.09},
+    {letter:"近畿",frequency:0.34},
+    {letter:"東海",frequency:0.09},
+    {letter:"北陸信越",frequency:0.09},
+    {letter:"東京",frequency:0.12},
+    {letter:"南関東",frequency:0.11},
+    {letter:"北関東",frequency:0.10},
+    {letter:"東北",frequency:0.06},
+    {letter:"北海道",frequency:0.08}
+]
+document.body.append(BarChart(alphabet, {
+  x: d => d.letter,
+  y: d => d.frequency,
+  yFormat: "%",
+  yLabel: "↑ 割合",
+  width: 400,
+  height: 400,
+  color: "steelblue"
+}))
+
+    </script>
+  </body>
+</html>
