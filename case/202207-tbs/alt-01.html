@@ -1,11 +1,11 @@
 <!DOCTYPE html>
   <head>
-
   </head>
   <body>
     <div id="chart"></div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.6.1/d3.min.js" integrity="sha512-MefNfAGJ/pEy89xLOFs3V6pYPs6AmUhXJrRlydI/9wZuGrqxmrdQ80zKHUcyadAcpH67teDZcBeS6oMJLPtTqw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
+// refference https://observablehq.com/@d3/bar-chart
 function BarChart(data, {
   x = (d, i) => i,
   y = d => d,
@@ -21,7 +21,7 @@ function BarChart(data, {
   yType = d3.scaleLinear,
   yDomain,
   yRange = [height - marginBottom, marginTop],
-  xPadding = 0.25,
+  xPadding = 0.5,
   yFormat,
   yLabel,
   color = "currentColor"
@@ -50,27 +50,33 @@ function BarChart(data, {
   }
 
   const svg = d3.create("svg")
+      .attr("xmlns", "http://www.w3.org/2000/svg")
       .attr("width", width)
       .attr("height", height)
       .attr("viewBox", [0, 0, width, height])
-      .attr("style", "max-width: 100%; height: auto; height: intrinsic;")
+      .attr("style", "max-width: 100%; height: auto; height: intrinsic; background: #112; color: #fff")
+
+  svg.append("style")
+      .attr("type", "text/css")
+      .text(".axis {font: 12px sans-serif }")
 
   svg.append("g")
       .attr("transform", `translate(${marginLeft},0)`)
+      .attr("class", "axis")
       .call(yAxis)
       .call(g => g.select(".domain").remove())
       .call(g => g.selectAll(".tick line").clone()
-          .attr("x2", width - marginLeft - marginRight)
-          .attr("stroke-opacity", 0.1))
+        .attr("x2", width - marginLeft - marginRight)
+        .attr("stroke-opacity", 0.1))
       .call(g => g.append("text")
-          .attr("x", -marginLeft)
-          .attr("y", 10)
-          .attr("fill", "currentColor")
-          .attr("text-anchor", "start")
-          .text(yLabel))
+        .attr("x", -marginLeft)
+        .attr("y", 10)
+        .attr("fill", "currentColor")
+        .attr("text-anchor", "start")
+        .text(yLabel))
 
   const bar = svg.append("g")
-      .attr("fill", color)
+    .attr("fill", color)
     .selectAll("rect")
     .data(I)
     .join("rect")
@@ -84,32 +90,33 @@ function BarChart(data, {
 
   svg.append("g")
       .attr("transform", `translate(0,${height - marginBottom})`)
+      .attr("class", "axis")
       .call(xAxis)
 
   return svg.node()
 }
 
 alphabet = [
-    {letter:"九州",frequency:0.08},
-    {letter:"四国",frequency:0.09},
-    {letter:"中国",frequency:0.09},
-    {letter:"近畿",frequency:0.34},
-    {letter:"東海",frequency:0.09},
-    {letter:"北陸信越",frequency:0.09},
-    {letter:"東京",frequency:0.12},
-    {letter:"南関東",frequency:0.11},
-    {letter:"北関東",frequency:0.10},
-    {letter:"東北",frequency:0.06},
-    {letter:"北海道",frequency:0.08}
+    {letter:"九州",frequency:8},
+    {letter:"四国",frequency:9},
+    {letter:"中国",frequency:9},
+    {letter:"近畿",frequency:34},
+    {letter:"東海",frequency:9},
+    {letter:"北陸信越",frequency:9},
+    {letter:"東京",frequency:12},
+    {letter:"南関東",frequency:11},
+    {letter:"北関東",frequency:10},
+    {letter:"東北",frequency:6},
+    {letter:"北海道",frequency:8}
 ]
 document.body.append(BarChart(alphabet, {
   x: d => d.letter,
   y: d => d.frequency,
-  yFormat: "%",
-  yLabel: "↑ 割合",
-  width: 400,
+  yFormat: "",
+  yLabel: "割合(%)",
+  width: 640,
   height: 400,
-  color: "steelblue"
+  color: "orange"
 }))
 
     </script>
