@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nhk-el:hsm xmlns:nhk-el="http://www.xml-nhk-el.or.jp" xmlns:xsi="http://www.w3.org/2001/XMLSchema" upd="2022/07/11 00:26:19" dosaMode="pub" ctsFor="ka" kekka="0" elId="17990" elNm="参院選" elTypeId="2" station="000">
+  <hrBlk senkId="50790" hrBlkCd="12" hrBlkNm="参院比例" teiin="50" seatDcdSu="40" rstSeatSu="10" hrVtCntRate="7" cmt="">
+    <prty prtyId="1" prtyDispOdr="1" prtyNm="自由民主党" bcstPrtyNm="自民" hrKhSu="33" senkKhSu="0" hrHyo="1582729" hrHyoRate="41.1" hrSeatSu="17" bfrElSeatSu="19" hrKhSpcSu="10" femKhSu="10" femSu="3" zKhSu="14" mKhSu="5" sKhSu="14"/>
+    <prty prtyId="195" prtyDispOdr="2" prtyNm="立憲民主党" bcstPrtyNm="立民" hrKhSu="20" senkKhSu="0" hrHyo="508444" hrHyoRate="13.2" hrSeatSu="6" bfrElSeatSu="7" hrKhSpcSu="2" femKhSu="10" femSu="1" zKhSu="4" mKhSu="1" sKhSu="15"/>
+    <prty prtyId="3" prtyDispOdr="3" prtyNm="公明党" bcstPrtyNm="公明" hrKhSu="17" senkKhSu="0" hrHyo="491408" hrHyoRate="12.8" hrSeatSu="5" bfrElSeatSu="7" hrKhSpcSu="3" femKhSu="3" femSu="0" zKhSu="5" mKhSu="0" sKhSu="12"/>
+    <prty prtyId="187" prtyDispOdr="4" prtyNm="日本維新の会" bcstPrtyNm="維新" hrKhSu="26" senkKhSu="0" hrHyo="417010" hrHyoRate="10.8" hrSeatSu="6" bfrElSeatSu="3" hrKhSpcSu="2" femKhSu="5" femSu="2" zKhSu="2" mKhSu="2" sKhSu="22"/>
+    <prty prtyId="4" prtyDispOdr="5" prtyNm="日本共産党" bcstPrtyNm="共産" hrKhSu="25" senkKhSu="0" hrHyo="231225" hrHyoRate="6.0" hrSeatSu="2" bfrElSeatSu="5" hrKhSpcSu="1" femKhSu="17" femSu="1" zKhSu="4" mKhSu="1" sKhSu="20"/>
+    <prty prtyId="197" prtyDispOdr="6" prtyNm="国民民主党" bcstPrtyNm="国民" hrKhSu="9" senkKhSu="0" hrHyo="165676" hrHyoRate="4.3" hrSeatSu="2" bfrElSeatSu="4" hrKhSpcSu="0" femKhSu="3" femSu="0" zKhSu="3" mKhSu="1" sKhSu="5"/>
+    <prty prtyId="212" prtyDispOdr="7" prtyNm="れいわ新選組" bcstPrtyNm="れいわ" hrKhSu="9" senkKhSu="0" hrHyo="144417" hrHyoRate="3.8" hrSeatSu="1" bfrElSeatSu="0" hrKhSpcSu="1" femKhSu="2" femSu="0" zKhSu="0" mKhSu="1" sKhSu="8"/>
+    <prty prtyId="227" prtyDispOdr="8" prtyNm="参政党" bcstPrtyNm="参政" hrKhSu="5" senkKhSu="0" hrHyo="109664" hrHyoRate="2.9" hrSeatSu="1" bfrElSeatSu="0" hrKhSpcSu="0" femKhSu="1" femSu="0" zKhSu="0" mKhSu="0" sKhSu="5"/>
+    <prty prtyId="5" prtyDispOdr="9" prtyNm="社会民主党" bcstPrtyNm="社民" hrKhSu="8" senkKhSu="0" hrHyo="85327" hrHyoRate="2.2" hrSeatSu="0" bfrElSeatSu="1" hrKhSpcSu="0" femKhSu="4" femSu="0" zKhSu="1" mKhSu="0" sKhSu="7"/>
+    <prty prtyId="229" prtyDispOdr="10" prtyNm="ＮＨＫ党" bcstPrtyNm="Ｎ党" hrKhSu="9" senkKhSu="0" hrHyo="75837" hrHyoRate="2.0" hrSeatSu="0" bfrElSeatSu="0" hrKhSpcSu="0" femKhSu="0" femSu="0" zKhSu="0" mKhSu="0" sKhSu="9"/>
+    <prty prtyId="232" prtyDispOdr="11" prtyNm="ごぼうの党" bcstPrtyNm="ごぼう" hrKhSu="11" senkKhSu="0" hrHyo="11912" hrHyoRate="0.3" hrSeatSu="0" bfrElSeatSu="0" hrKhSpcSu="0" femKhSu="2" femSu="0" zKhSu="0" mKhSu="0" sKhSu="11"/>
+    <prty prtyId="85" prtyDispOdr="12" prtyNm="幸福実現党" bcstPrtyNm="幸福" hrKhSu="1" senkKhSu="0" hrHyo="9721" hrHyoRate="0.3" hrSeatSu="0" bfrElSeatSu="0" hrKhSpcSu="0" femKhSu="1" femSu="0" zKhSu="0" mKhSu="0" sKhSu="1"/>
+    <prty prtyId="207" prtyDispOdr="13" prtyNm="日本第一党" bcstPrtyNm="第一" hrKhSu="2" senkKhSu="0" hrHyo="6337" hrHyoRate="0.2" hrSeatSu="0" bfrElSeatSu="0" hrKhSpcSu="0" femKhSu="0" femSu="0" zKhSu="0" mKhSu="0" sKhSu="2"/>
+    <prty prtyId="231" prtyDispOdr="14" prtyNm="新党くにもり" bcstPrtyNm="くに" hrKhSu="2" senkKhSu="0" hrHyo="4509" hrHyoRate="0.1" hrSeatSu="0" bfrElSeatSu="0" hrKhSpcSu="0" femKhSu="1" femSu="0" zKhSu="0" mKhSu="0" sKhSu="2"/>
+    <prty prtyId="43" prtyDispOdr="15" prtyNm="維新政党・新風" bcstPrtyNm="新風" hrKhSu="1" senkKhSu="0" hrHyo="3578" hrHyoRate="0.1" hrSeatSu="0" bfrElSeatSu="0" hrKhSpcSu="0" femKhSu="0" femSu="0" zKhSu="0" mKhSu="0" sKhSu="1"/>
+    <pft nhkPftCd="01" pftNm="北海道" hrVtCntRate="17" hrHyoSum="386406">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="153526" hrHyoRate="39.7"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="82047" hrHyoRate="21.2"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="48469" hrHyoRate="12.5"/>
+      <prty prtyId="4" prtyDispOdr="4" bcstPrtyNm="共産" hrHyo="29476" hrHyoRate="7.6"/>
+      <prty prtyId="187" prtyDispOdr="5" bcstPrtyNm="維新" hrHyo="21962" hrHyoRate="5.7"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="14869" hrHyoRate="3.8"/>
+      <prty prtyId="197" prtyDispOdr="7" bcstPrtyNm="国民" hrHyo="9760" hrHyoRate="2.5"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="8984" hrHyoRate="2.3"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="7891" hrHyoRate="2.0"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="4956" hrHyoRate="1.3"/>
+      <prty prtyId="85" prtyDispOdr="11" bcstPrtyNm="幸福" hrHyo="1141" hrHyoRate="0.3"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="1118" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="991" hrHyoRate="0.3"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="822" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="390" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="02" pftNm="青森" hrVtCntRate="23" hrHyoSum="115800">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="52700" hrHyoRate="45.5"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="21337" hrHyoRate="18.4"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="12906" hrHyoRate="11.1"/>
+      <prty prtyId="4" prtyDispOdr="4" bcstPrtyNm="共産" hrHyo="5397" hrHyoRate="4.7"/>
+      <prty prtyId="187" prtyDispOdr="5" bcstPrtyNm="維新" hrHyo="5106" hrHyoRate="4.4"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="5079" hrHyoRate="4.4"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="3686" hrHyoRate="3.2"/>
+      <prty prtyId="229" prtyDispOdr="8" bcstPrtyNm="Ｎ党" hrHyo="3212" hrHyoRate="2.8"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="2794" hrHyoRate="2.4"/>
+      <prty prtyId="227" prtyDispOdr="10" bcstPrtyNm="参政" hrHyo="2215" hrHyoRate="1.9"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="533" hrHyoRate="0.5"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="278" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="222" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="209" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="122" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="03" pftNm="岩手" hrVtCntRate="20" hrHyoSum="107570">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="47132" hrHyoRate="43.8"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="20691" hrHyoRate="19.2"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="9856" hrHyoRate="9.2"/>
+      <prty prtyId="4" prtyDispOdr="4" bcstPrtyNm="共産" hrHyo="6033" hrHyoRate="5.6"/>
+      <prty prtyId="187" prtyDispOdr="5" bcstPrtyNm="維新" hrHyo="4914" hrHyoRate="4.6"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="4861" hrHyoRate="4.5"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="4247" hrHyoRate="3.9"/>
+      <prty prtyId="5" prtyDispOdr="8" bcstPrtyNm="社民" hrHyo="3884" hrHyoRate="3.6"/>
+      <prty prtyId="227" prtyDispOdr="9" bcstPrtyNm="参政" hrHyo="2930" hrHyoRate="2.7"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="2063" hrHyoRate="1.9"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="330" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="274" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="160" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="112" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="79" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="04" pftNm="宮城" hrVtCntRate="7" hrHyoSum="62112">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="23324" hrHyoRate="37.6"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="11890" hrHyoRate="19.1"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="8301" hrHyoRate="13.4"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="5077" hrHyoRate="8.2"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="3471" hrHyoRate="5.6"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="3245" hrHyoRate="5.2"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="2450" hrHyoRate="3.9"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="1409" hrHyoRate="2.3"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="1209" hrHyoRate="1.9"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="1072" hrHyoRate="1.7"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="239" hrHyoRate="0.4"/>
+      <prty prtyId="207" prtyDispOdr="12" bcstPrtyNm="第一" hrHyo="120" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="13" bcstPrtyNm="新風" hrHyo="119" hrHyoRate="0.2"/>
+      <prty prtyId="85" prtyDispOdr="14" bcstPrtyNm="幸福" hrHyo="96" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="86" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="05" pftNm="秋田" hrVtCntRate="12" hrHyoSum="52573">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="24908" hrHyoRate="47.4"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="6472" hrHyoRate="12.3"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="5691" hrHyoRate="10.8"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="5591" hrHyoRate="10.6"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="2963" hrHyoRate="5.6"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="2116" hrHyoRate="4.0"/>
+      <prty prtyId="197" prtyDispOdr="7" bcstPrtyNm="国民" hrHyo="1709" hrHyoRate="3.3"/>
+      <prty prtyId="229" prtyDispOdr="8" bcstPrtyNm="Ｎ党" hrHyo="934" hrHyoRate="1.8"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="924" hrHyoRate="1.8"/>
+      <prty prtyId="227" prtyDispOdr="10" bcstPrtyNm="参政" hrHyo="888" hrHyoRate="1.7"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="137" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="94" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="57" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="53" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="33" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="06" pftNm="山形" hrVtCntRate="10" hrHyoSum="51549">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="24290" hrHyoRate="47.1"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="5846" hrHyoRate="11.3"/>
+      <prty prtyId="197" prtyDispOdr="3" bcstPrtyNm="国民" hrHyo="5357" hrHyoRate="10.4"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="5101" hrHyoRate="9.9"/>
+      <prty prtyId="187" prtyDispOdr="5" bcstPrtyNm="維新" hrHyo="3330" hrHyoRate="6.5"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="2334" hrHyoRate="4.5"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="1645" hrHyoRate="3.2"/>
+      <prty prtyId="5" prtyDispOdr="8" bcstPrtyNm="社民" hrHyo="1321" hrHyoRate="2.6"/>
+      <prty prtyId="227" prtyDispOdr="9" bcstPrtyNm="参政" hrHyo="983" hrHyoRate="1.9"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="822" hrHyoRate="1.6"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="163" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="12" bcstPrtyNm="第一" hrHyo="135" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="13" bcstPrtyNm="幸福" hrHyo="108" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="65" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="46" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="07" pftNm="福島" hrVtCntRate="15" hrHyoSum="120938">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="55637" hrHyoRate="46.0"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="17966" hrHyoRate="14.9"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="11585" hrHyoRate="9.6"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="7553" hrHyoRate="6.2"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="6145" hrHyoRate="5.1"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="6099" hrHyoRate="5.0"/>
+      <prty prtyId="5" prtyDispOdr="7" bcstPrtyNm="社民" hrHyo="5422" hrHyoRate="4.5"/>
+      <prty prtyId="212" prtyDispOdr="8" bcstPrtyNm="れいわ" hrHyo="4212" hrHyoRate="3.5"/>
+      <prty prtyId="227" prtyDispOdr="9" bcstPrtyNm="参政" hrHyo="2580" hrHyoRate="2.1"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="2408" hrHyoRate="2.0"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="632" hrHyoRate="0.5"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="222" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="13" bcstPrtyNm="新風" hrHyo="166" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="154" hrHyoRate="0.1"/>
+      <prty prtyId="207" prtyDispOdr="15" bcstPrtyNm="第一" hrHyo="151" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="08" pftNm="茨城" hrVtCntRate="34" hrHyoSum="379541">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="147984" hrHyoRate="39.0"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="54180" hrHyoRate="14.3"/>
+      <prty prtyId="187" prtyDispOdr="3" bcstPrtyNm="維新" hrHyo="47642" hrHyoRate="12.6"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="41169" hrHyoRate="10.8"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="22180" hrHyoRate="5.8"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="21023" hrHyoRate="5.5"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="14436" hrHyoRate="3.8"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="10986" hrHyoRate="2.9"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="8263" hrHyoRate="2.2"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="8183" hrHyoRate="2.2"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="1339" hrHyoRate="0.4"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="814" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="642" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="404" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="291" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="09" pftNm="栃木" hrVtCntRate="13" hrHyoSum="97909">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="41674" hrHyoRate="42.6"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="13725" hrHyoRate="14.0"/>
+      <prty prtyId="187" prtyDispOdr="3" bcstPrtyNm="維新" hrHyo="11365" hrHyoRate="11.6"/>
+      <prty prtyId="3" prtyDispOdr="4" bcstPrtyNm="公明" hrHyo="11096" hrHyoRate="11.3"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="4597" hrHyoRate="4.7"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="3789" hrHyoRate="3.9"/>
+      <prty prtyId="197" prtyDispOdr="7" bcstPrtyNm="国民" hrHyo="3724" hrHyoRate="3.8"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="2543" hrHyoRate="2.6"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="2275" hrHyoRate="2.3"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="2003" hrHyoRate="2.0"/>
+      <prty prtyId="85" prtyDispOdr="11" bcstPrtyNm="幸福" hrHyo="427" hrHyoRate="0.4"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="367" hrHyoRate="0.4"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="138" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="105" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="77" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="10" pftNm="群馬" hrVtCntRate="47" hrHyoSum="351954">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="140393" hrHyoRate="39.9"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="46586" hrHyoRate="13.2"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="42904" hrHyoRate="12.2"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="33366" hrHyoRate="9.5"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="21766" hrHyoRate="6.2"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="19964" hrHyoRate="5.7"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="15424" hrHyoRate="4.4"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="11761" hrHyoRate="3.3"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="8590" hrHyoRate="2.4"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="7953" hrHyoRate="2.3"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="1162" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="936" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="525" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="316" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="304" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="11" pftNm="埼玉" hrVtCntRate="2" hrHyoSum="66846">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="23903" hrHyoRate="35.8"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="10100" hrHyoRate="15.1"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="7971" hrHyoRate="11.9"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="6861" hrHyoRate="10.3"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="5728" hrHyoRate="8.6"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="3588" hrHyoRate="5.4"/>
+      <prty prtyId="197" prtyDispOdr="7" bcstPrtyNm="国民" hrHyo="3015" hrHyoRate="4.5"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="1850" hrHyoRate="2.8"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="1817" hrHyoRate="2.7"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="1293" hrHyoRate="1.9"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="210" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="200" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="138" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="107" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="63" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="12" pftNm="千葉" hrVtCntRate="3" hrHyoSum="88029">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="34768" hrHyoRate="39.5"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="13233" hrHyoRate="15.0"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="10868" hrHyoRate="12.3"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="9455" hrHyoRate="10.7"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="4850" hrHyoRate="5.5"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="4554" hrHyoRate="5.2"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="3491" hrHyoRate="4.0"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="2583" hrHyoRate="2.9"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="1829" hrHyoRate="2.1"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="1401" hrHyoRate="1.6"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="307" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="278" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="173" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="158" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="75" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="13" pftNm="東京" hrVtCntRate="2" hrHyoSum="106088">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="32901" hrHyoRate="31.0"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="16239" hrHyoRate="15.3"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="13103" hrHyoRate="12.4"/>
+      <prty prtyId="4" prtyDispOdr="4" bcstPrtyNm="共産" hrHyo="12805" hrHyoRate="12.1"/>
+      <prty prtyId="195" prtyDispOdr="5" bcstPrtyNm="立民" hrHyo="11338" hrHyoRate="10.7"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="7427" hrHyoRate="7.0"/>
+      <prty prtyId="197" prtyDispOdr="7" bcstPrtyNm="国民" hrHyo="4809" hrHyoRate="4.5"/>
+      <prty prtyId="5" prtyDispOdr="8" bcstPrtyNm="社民" hrHyo="3863" hrHyoRate="3.6"/>
+      <prty prtyId="227" prtyDispOdr="9" bcstPrtyNm="参政" hrHyo="3009" hrHyoRate="2.8"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="527" hrHyoRate="0.5"/>
+      <prty prtyId="207" prtyDispOdr="11" bcstPrtyNm="第一" hrHyo="23" hrHyoRate="0.0"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="18" hrHyoRate="0.0"/>
+      <prty prtyId="85" prtyDispOdr="13" bcstPrtyNm="幸福" hrHyo="15" hrHyoRate="0.0"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="7" hrHyoRate="0.0"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="2" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="14" pftNm="神奈川" hrVtCntRate="0.3" hrHyoSum="13237">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="5605" hrHyoRate="42.3"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="1704" hrHyoRate="12.9"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="1622" hrHyoRate="12.3"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="1440" hrHyoRate="10.9"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="871" hrHyoRate="6.6"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="550" hrHyoRate="4.2"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="474" hrHyoRate="3.6"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="335" hrHyoRate="2.5"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="267" hrHyoRate="2.0"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="263" hrHyoRate="2.0"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="27" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="12" bcstPrtyNm="第一" hrHyo="23" hrHyoRate="0.2"/>
+      <prty prtyId="85" prtyDispOdr="13" bcstPrtyNm="幸福" hrHyo="22" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="22" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="11" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="15" pftNm="新潟" hrVtCntRate="14" hrHyoSum="133755">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="61257" hrHyoRate="45.8"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="29026" hrHyoRate="21.7"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="10097" hrHyoRate="7.5"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="7426" hrHyoRate="5.6"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="6253" hrHyoRate="4.7"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="5006" hrHyoRate="3.7"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="4402" hrHyoRate="3.3"/>
+      <prty prtyId="5" prtyDispOdr="8" bcstPrtyNm="社民" hrHyo="3453" hrHyoRate="2.6"/>
+      <prty prtyId="227" prtyDispOdr="9" bcstPrtyNm="参政" hrHyo="3187" hrHyoRate="2.4"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="2619" hrHyoRate="2.0"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="402" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="331" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="144" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="76" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="76" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="16" pftNm="長野" hrVtCntRate="16" hrHyoSum="150327">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="55483" hrHyoRate="36.9"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="29916" hrHyoRate="19.9"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="15060" hrHyoRate="10.0"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="15036" hrHyoRate="10.0"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="11839" hrHyoRate="7.9"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="5674" hrHyoRate="3.8"/>
+      <prty prtyId="227" prtyDispOdr="7" bcstPrtyNm="参政" hrHyo="4589" hrHyoRate="3.1"/>
+      <prty prtyId="197" prtyDispOdr="8" bcstPrtyNm="国民" hrHyo="4488" hrHyoRate="3.0"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="4178" hrHyoRate="2.8"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="2784" hrHyoRate="1.9"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="518" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="369" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="177" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="128" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="84" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="17" pftNm="山梨" hrVtCntRate="6" hrHyoSum="22670">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="10482" hrHyoRate="46.2"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="2847" hrHyoRate="12.6"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="2781" hrHyoRate="12.3"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="2451" hrHyoRate="10.8"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="885" hrHyoRate="3.9"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="818" hrHyoRate="3.6"/>
+      <prty prtyId="197" prtyDispOdr="7" bcstPrtyNm="国民" hrHyo="795" hrHyoRate="3.5"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="689" hrHyoRate="3.0"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="415" hrHyoRate="1.8"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="243" hrHyoRate="1.1"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="104" hrHyoRate="0.5"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="88" hrHyoRate="0.4"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="25" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="23" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="21" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="18" pftNm="富山" hrVtCntRate="0" hrHyoSum="0">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="3" prtyDispOdr="4" bcstPrtyNm="公明" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="85" prtyDispOdr="9" bcstPrtyNm="幸福" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="232" prtyDispOdr="10" bcstPrtyNm="ごぼう" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="207" prtyDispOdr="11" bcstPrtyNm="第一" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="231" prtyDispOdr="12" bcstPrtyNm="くに" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="5" prtyDispOdr="13" bcstPrtyNm="社民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="229" prtyDispOdr="14" bcstPrtyNm="Ｎ党" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="0" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="19" pftNm="石川" hrVtCntRate="0.8" hrHyoSum="3473">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="1959" hrHyoRate="56.4"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="368" hrHyoRate="10.6"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="276" hrHyoRate="8.0"/>
+      <prty prtyId="3" prtyDispOdr="4" bcstPrtyNm="公明" hrHyo="235" hrHyoRate="6.8"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="144" hrHyoRate="4.2"/>
+      <prty prtyId="227" prtyDispOdr="6" bcstPrtyNm="参政" hrHyo="119" hrHyoRate="3.4"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="104" hrHyoRate="3.0"/>
+      <prty prtyId="229" prtyDispOdr="8" bcstPrtyNm="Ｎ党" hrHyo="94" hrHyoRate="2.7"/>
+      <prty prtyId="4" prtyDispOdr="9" bcstPrtyNm="共産" hrHyo="74" hrHyoRate="2.1"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="48" hrHyoRate="1.4"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="28" hrHyoRate="0.8"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="11" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="6" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="4" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="0" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="20" pftNm="福井" hrVtCntRate="0" hrHyoSum="0">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="3" prtyDispOdr="4" bcstPrtyNm="公明" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="85" prtyDispOdr="9" bcstPrtyNm="幸福" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="232" prtyDispOdr="10" bcstPrtyNm="ごぼう" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="207" prtyDispOdr="11" bcstPrtyNm="第一" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="231" prtyDispOdr="12" bcstPrtyNm="くに" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="5" prtyDispOdr="13" bcstPrtyNm="社民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="229" prtyDispOdr="14" bcstPrtyNm="Ｎ党" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="0" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="21" pftNm="岐阜" hrVtCntRate="0.1" hrHyoSum="636">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="263" hrHyoRate="41.3"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="105" hrHyoRate="16.5"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="66" hrHyoRate="10.5"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="58" hrHyoRate="9.1"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="38" hrHyoRate="6.0"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="36" hrHyoRate="5.7"/>
+      <prty prtyId="227" prtyDispOdr="7" bcstPrtyNm="参政" hrHyo="27" hrHyoRate="4.2"/>
+      <prty prtyId="4" prtyDispOdr="8" bcstPrtyNm="共産" hrHyo="23" hrHyoRate="3.6"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="10" hrHyoRate="1.6"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="7" hrHyoRate="1.1"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="2" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="1" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="0" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="22" pftNm="静岡" hrVtCntRate="2" hrHyoSum="28374">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="13809" hrHyoRate="48.7"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="3991" hrHyoRate="14.1"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="2694" hrHyoRate="9.5"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="2157" hrHyoRate="7.6"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="1296" hrHyoRate="4.6"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="1249" hrHyoRate="4.4"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="1038" hrHyoRate="3.7"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="744" hrHyoRate="2.6"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="598" hrHyoRate="2.1"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="569" hrHyoRate="2.0"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="86" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="12" bcstPrtyNm="第一" hrHyo="53" hrHyoRate="0.2"/>
+      <prty prtyId="85" prtyDispOdr="13" bcstPrtyNm="幸福" hrHyo="40" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="26" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="22" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="23" pftNm="愛知" hrVtCntRate="2" hrHyoSum="63893">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="26153" hrHyoRate="40.9"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="9234" hrHyoRate="14.5"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="6643" hrHyoRate="10.4"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="6451" hrHyoRate="10.1"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="4844" hrHyoRate="7.6"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="4295" hrHyoRate="6.7"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="2926" hrHyoRate="4.6"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="1310" hrHyoRate="2.1"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="942" hrHyoRate="1.5"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="562" hrHyoRate="0.9"/>
+      <prty prtyId="85" prtyDispOdr="11" bcstPrtyNm="幸福" hrHyo="186" hrHyoRate="0.3"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="153" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="13" bcstPrtyNm="新風" hrHyo="76" hrHyoRate="0.1"/>
+      <prty prtyId="207" prtyDispOdr="14" bcstPrtyNm="第一" hrHyo="69" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="47" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="24" pftNm="三重" hrVtCntRate="10" hrHyoSum="77388">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="32324" hrHyoRate="41.8"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="12637" hrHyoRate="16.3"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="11845" hrHyoRate="15.3"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="5908" hrHyoRate="7.6"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="3327" hrHyoRate="4.3"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="2776" hrHyoRate="3.6"/>
+      <prty prtyId="227" prtyDispOdr="7" bcstPrtyNm="参政" hrHyo="2730" hrHyoRate="3.5"/>
+      <prty prtyId="212" prtyDispOdr="8" bcstPrtyNm="れいわ" hrHyo="2482" hrHyoRate="3.2"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="1536" hrHyoRate="2.0"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="892" hrHyoRate="1.2"/>
+      <prty prtyId="207" prtyDispOdr="11" bcstPrtyNm="第一" hrHyo="304" hrHyoRate="0.4"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="248" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="13" bcstPrtyNm="幸福" hrHyo="168" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="123" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="84" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="25" pftNm="滋賀" hrVtCntRate="0" hrHyoSum="0">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="3" prtyDispOdr="4" bcstPrtyNm="公明" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="85" prtyDispOdr="9" bcstPrtyNm="幸福" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="232" prtyDispOdr="10" bcstPrtyNm="ごぼう" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="207" prtyDispOdr="11" bcstPrtyNm="第一" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="231" prtyDispOdr="12" bcstPrtyNm="くに" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="5" prtyDispOdr="13" bcstPrtyNm="社民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="229" prtyDispOdr="14" bcstPrtyNm="Ｎ党" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="0" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="26" pftNm="京都" hrVtCntRate="0" hrHyoSum="0">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="3" prtyDispOdr="4" bcstPrtyNm="公明" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="85" prtyDispOdr="9" bcstPrtyNm="幸福" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="232" prtyDispOdr="10" bcstPrtyNm="ごぼう" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="207" prtyDispOdr="11" bcstPrtyNm="第一" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="231" prtyDispOdr="12" bcstPrtyNm="くに" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="5" prtyDispOdr="13" bcstPrtyNm="社民" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="229" prtyDispOdr="14" bcstPrtyNm="Ｎ党" hrHyo="0" hrHyoRate="0.0"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="0" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="27" pftNm="大阪" hrVtCntRate="2" hrHyoSum="59390">
+      <prty prtyId="187" prtyDispOdr="1" bcstPrtyNm="維新" hrHyo="24950" hrHyoRate="42.0"/>
+      <prty prtyId="1" prtyDispOdr="2" bcstPrtyNm="自民" hrHyo="12667" hrHyoRate="21.3"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="8368" hrHyoRate="14.1"/>
+      <prty prtyId="4" prtyDispOdr="4" bcstPrtyNm="共産" hrHyo="4955" hrHyoRate="8.3"/>
+      <prty prtyId="195" prtyDispOdr="5" bcstPrtyNm="立民" hrHyo="2302" hrHyoRate="3.9"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="2156" hrHyoRate="3.6"/>
+      <prty prtyId="197" prtyDispOdr="7" bcstPrtyNm="国民" hrHyo="1573" hrHyoRate="2.6"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="1059" hrHyoRate="1.8"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="647" hrHyoRate="1.1"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="389" hrHyoRate="0.7"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="97" hrHyoRate="0.2"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="92" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="73" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="34" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="23" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="28" pftNm="兵庫" hrVtCntRate="6" hrHyoSum="139449">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="42279" hrHyoRate="30.3"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="35259" hrHyoRate="25.3"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="17843" hrHyoRate="12.8"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="13485" hrHyoRate="9.7"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="8041" hrHyoRate="5.8"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="5370" hrHyoRate="3.9"/>
+      <prty prtyId="227" prtyDispOdr="7" bcstPrtyNm="参政" hrHyo="4988" hrHyoRate="3.6"/>
+      <prty prtyId="212" prtyDispOdr="8" bcstPrtyNm="れいわ" hrHyo="4692" hrHyoRate="3.4"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="3274" hrHyoRate="2.3"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="2496" hrHyoRate="1.8"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="409" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="405" hrHyoRate="0.3"/>
+      <prty prtyId="231" prtyDispOdr="13" bcstPrtyNm="くに" hrHyo="385" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="14" bcstPrtyNm="第一" hrHyo="357" hrHyoRate="0.3"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="161" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="29" pftNm="奈良" hrVtCntRate="13" hrHyoSum="76099">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="25496" hrHyoRate="33.5"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="19624" hrHyoRate="25.8"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="8817" hrHyoRate="11.6"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="6308" hrHyoRate="8.3"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="5456" hrHyoRate="7.2"/>
+      <prty prtyId="227" prtyDispOdr="6" bcstPrtyNm="参政" hrHyo="2591" hrHyoRate="3.4"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="2366" hrHyoRate="3.1"/>
+      <prty prtyId="197" prtyDispOdr="8" bcstPrtyNm="国民" hrHyo="2280" hrHyoRate="3.0"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="1381" hrHyoRate="1.8"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="1039" hrHyoRate="1.4"/>
+      <prty prtyId="43" prtyDispOdr="11" bcstPrtyNm="新風" hrHyo="213" hrHyoRate="0.3"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="193" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="13" bcstPrtyNm="幸福" hrHyo="171" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="14" bcstPrtyNm="第一" hrHyo="93" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="68" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="30" pftNm="和歌山" hrVtCntRate="28" hrHyoSum="117603">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="40635" hrHyoRate="34.6"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="29507" hrHyoRate="25.1"/>
+      <prty prtyId="4" prtyDispOdr="3" bcstPrtyNm="共産" hrHyo="12555" hrHyoRate="10.7"/>
+      <prty prtyId="3" prtyDispOdr="4" bcstPrtyNm="公明" hrHyo="12246" hrHyoRate="10.4"/>
+      <prty prtyId="195" prtyDispOdr="5" bcstPrtyNm="立民" hrHyo="5145" hrHyoRate="4.4"/>
+      <prty prtyId="227" prtyDispOdr="6" bcstPrtyNm="参政" hrHyo="4854" hrHyoRate="4.1"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="4179" hrHyoRate="3.6"/>
+      <prty prtyId="197" prtyDispOdr="8" bcstPrtyNm="国民" hrHyo="3706" hrHyoRate="3.2"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="3093" hrHyoRate="2.6"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="1304" hrHyoRate="1.1"/>
+      <prty prtyId="231" prtyDispOdr="11" bcstPrtyNm="くに" hrHyo="181" hrHyoRate="0.2"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="73" hrHyoRate="0.1"/>
+      <prty prtyId="85" prtyDispOdr="13" bcstPrtyNm="幸福" hrHyo="66" hrHyoRate="0.1"/>
+      <prty prtyId="207" prtyDispOdr="14" bcstPrtyNm="第一" hrHyo="28" hrHyoRate="0.0"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="28" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="31" pftNm="鳥取" hrVtCntRate="18" hrHyoSum="39541">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="16007" hrHyoRate="40.5"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="6296" hrHyoRate="15.9"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="6283" hrHyoRate="15.9"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="3122" hrHyoRate="7.9"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="2057" hrHyoRate="5.2"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="1311" hrHyoRate="3.3"/>
+      <prty prtyId="197" prtyDispOdr="7" bcstPrtyNm="国民" hrHyo="1235" hrHyoRate="3.1"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="1208" hrHyoRate="3.1"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="856" hrHyoRate="2.2"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="748" hrHyoRate="1.9"/>
+      <prty prtyId="85" prtyDispOdr="11" bcstPrtyNm="幸福" hrHyo="163" hrHyoRate="0.4"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="115" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="62" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="47" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="28" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="32" pftNm="島根" hrVtCntRate="21" hrHyoSum="63907">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="29188" hrHyoRate="45.7"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="9276" hrHyoRate="14.5"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="8281" hrHyoRate="13.0"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="4494" hrHyoRate="7.0"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="3329" hrHyoRate="5.2"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="2891" hrHyoRate="4.5"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="1764" hrHyoRate="2.8"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="1760" hrHyoRate="2.8"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="1321" hrHyoRate="2.1"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="977" hrHyoRate="1.5"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="226" hrHyoRate="0.4"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="163" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="140" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="52" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="39" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="33" pftNm="岡山" hrVtCntRate="13" hrHyoSum="93012">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="42001" hrHyoRate="45.2"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="13662" hrHyoRate="14.7"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="9937" hrHyoRate="10.7"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="7960" hrHyoRate="8.6"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="5416" hrHyoRate="5.8"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="3747" hrHyoRate="4.0"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="3105" hrHyoRate="3.3"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="2718" hrHyoRate="2.9"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="1889" hrHyoRate="2.0"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="1527" hrHyoRate="1.6"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="356" hrHyoRate="0.4"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="236" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="189" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="143" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="121" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="34" pftNm="広島" hrVtCntRate="11" hrHyoSum="112774">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="53695" hrHyoRate="47.6"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="14030" hrHyoRate="12.4"/>
+      <prty prtyId="187" prtyDispOdr="3" bcstPrtyNm="維新" hrHyo="12220" hrHyoRate="10.8"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="10162" hrHyoRate="9.0"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="5049" hrHyoRate="4.5"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="4419" hrHyoRate="3.9"/>
+      <prty prtyId="227" prtyDispOdr="7" bcstPrtyNm="参政" hrHyo="3689" hrHyoRate="3.3"/>
+      <prty prtyId="212" prtyDispOdr="8" bcstPrtyNm="れいわ" hrHyo="3336" hrHyoRate="3.0"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="3319" hrHyoRate="2.9"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="1692" hrHyoRate="1.5"/>
+      <prty prtyId="85" prtyDispOdr="11" bcstPrtyNm="幸福" hrHyo="433" hrHyoRate="0.4"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="316" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="205" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="106" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="100" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="35" pftNm="山口" hrVtCntRate="24" hrHyoSum="129510">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="66242" hrHyoRate="51.1"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="19386" hrHyoRate="15.0"/>
+      <prty prtyId="187" prtyDispOdr="3" bcstPrtyNm="維新" hrHyo="12501" hrHyoRate="9.7"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="8749" hrHyoRate="6.8"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="7317" hrHyoRate="5.6"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="4964" hrHyoRate="3.8"/>
+      <prty prtyId="227" prtyDispOdr="7" bcstPrtyNm="参政" hrHyo="3781" hrHyoRate="2.9"/>
+      <prty prtyId="197" prtyDispOdr="8" bcstPrtyNm="国民" hrHyo="3642" hrHyoRate="2.8"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="1618" hrHyoRate="1.2"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="976" hrHyoRate="0.8"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="109" hrHyoRate="0.1"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="98" hrHyoRate="0.1"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="49" hrHyoRate="0.0"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="49" hrHyoRate="0.0"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="26" hrHyoRate="0.0"/>
+    </pft>
+    <pft nhkPftCd="36" pftNm="徳島" hrVtCntRate="6" hrHyoSum="17493">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="6703" hrHyoRate="38.3"/>
+      <prty prtyId="187" prtyDispOdr="2" bcstPrtyNm="維新" hrHyo="3118" hrHyoRate="17.8"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="2239" hrHyoRate="12.8"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="1144" hrHyoRate="6.5"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="1097" hrHyoRate="6.3"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="892" hrHyoRate="5.1"/>
+      <prty prtyId="227" prtyDispOdr="7" bcstPrtyNm="参政" hrHyo="712" hrHyoRate="4.1"/>
+      <prty prtyId="212" prtyDispOdr="8" bcstPrtyNm="れいわ" hrHyo="606" hrHyoRate="3.5"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="496" hrHyoRate="2.8"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="268" hrHyoRate="1.5"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="73" hrHyoRate="0.4"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="50" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="37" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="29" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="27" hrHyoRate="0.2"/>
+    </pft>
+    <pft nhkPftCd="37" pftNm="香川" hrVtCntRate="2" hrHyoSum="6631">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="3078" hrHyoRate="46.4"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="836" hrHyoRate="12.6"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="757" hrHyoRate="11.4"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="662" hrHyoRate="10.0"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="352" hrHyoRate="5.3"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="333" hrHyoRate="5.0"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="160" hrHyoRate="2.4"/>
+      <prty prtyId="5" prtyDispOdr="8" bcstPrtyNm="社民" hrHyo="142" hrHyoRate="2.1"/>
+      <prty prtyId="227" prtyDispOdr="9" bcstPrtyNm="参政" hrHyo="139" hrHyoRate="2.1"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="94" hrHyoRate="1.4"/>
+      <prty prtyId="85" prtyDispOdr="11" bcstPrtyNm="幸福" hrHyo="21" hrHyoRate="0.3"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="20" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="13" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="12" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="11" hrHyoRate="0.2"/>
+    </pft>
+    <pft nhkPftCd="38" pftNm="愛媛" hrVtCntRate="3" hrHyoSum="16020">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="6851" hrHyoRate="42.8"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="2055" hrHyoRate="12.8"/>
+      <prty prtyId="187" prtyDispOdr="3" bcstPrtyNm="維新" hrHyo="1665" hrHyoRate="10.4"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="1650" hrHyoRate="10.3"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="808" hrHyoRate="5.0"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="792" hrHyoRate="4.9"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="607" hrHyoRate="3.8"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="549" hrHyoRate="3.4"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="439" hrHyoRate="2.7"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="367" hrHyoRate="2.3"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="73" hrHyoRate="0.5"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="67" hrHyoRate="0.4"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="49" hrHyoRate="0.3"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="26" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="19" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="39" pftNm="高知" hrVtCntRate="16" hrHyoSum="42745">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="18911" hrHyoRate="44.2"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="6147" hrHyoRate="14.4"/>
+      <prty prtyId="4" prtyDispOdr="3" bcstPrtyNm="共産" hrHyo="5148" hrHyoRate="12.0"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="3703" hrHyoRate="8.7"/>
+      <prty prtyId="195" prtyDispOdr="5" bcstPrtyNm="立民" hrHyo="2940" hrHyoRate="6.9"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="1711" hrHyoRate="4.0"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="1233" hrHyoRate="2.9"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="1021" hrHyoRate="2.4"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="848" hrHyoRate="2.0"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="748" hrHyoRate="1.8"/>
+      <prty prtyId="85" prtyDispOdr="11" bcstPrtyNm="幸福" hrHyo="135" hrHyoRate="0.3"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="104" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="40" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="29" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="22" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="40" pftNm="福岡" hrVtCntRate="1" hrHyoSum="19981">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="7051" hrHyoRate="35.3"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="4485" hrHyoRate="22.4"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="2376" hrHyoRate="11.9"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="1313" hrHyoRate="6.6"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="1288" hrHyoRate="6.4"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="1041" hrHyoRate="5.2"/>
+      <prty prtyId="5" prtyDispOdr="7" bcstPrtyNm="社民" hrHyo="804" hrHyoRate="4.0"/>
+      <prty prtyId="197" prtyDispOdr="8" bcstPrtyNm="国民" hrHyo="570" hrHyoRate="2.9"/>
+      <prty prtyId="227" prtyDispOdr="9" bcstPrtyNm="参政" hrHyo="487" hrHyoRate="2.4"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="285" hrHyoRate="1.4"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="99" hrHyoRate="0.5"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="95" hrHyoRate="0.5"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="29" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="28" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="26" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="41" pftNm="佐賀" hrVtCntRate="3" hrHyoSum="10875">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="5398" hrHyoRate="49.6"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="1566" hrHyoRate="14.4"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="1017" hrHyoRate="9.4"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="724" hrHyoRate="6.7"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="493" hrHyoRate="4.5"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="408" hrHyoRate="3.8"/>
+      <prty prtyId="227" prtyDispOdr="7" bcstPrtyNm="参政" hrHyo="384" hrHyoRate="3.5"/>
+      <prty prtyId="4" prtyDispOdr="8" bcstPrtyNm="共産" hrHyo="295" hrHyoRate="2.7"/>
+      <prty prtyId="229" prtyDispOdr="9" bcstPrtyNm="Ｎ党" hrHyo="224" hrHyoRate="2.1"/>
+      <prty prtyId="5" prtyDispOdr="10" bcstPrtyNm="社民" hrHyo="214" hrHyoRate="2.0"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="48" hrHyoRate="0.4"/>
+      <prty prtyId="207" prtyDispOdr="12" bcstPrtyNm="第一" hrHyo="46" hrHyoRate="0.4"/>
+      <prty prtyId="85" prtyDispOdr="13" bcstPrtyNm="幸福" hrHyo="39" hrHyoRate="0.4"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="10" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="7" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="42" pftNm="長崎" hrVtCntRate="6" hrHyoSum="31603">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="14991" hrHyoRate="47.4"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="4566" hrHyoRate="14.5"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="3767" hrHyoRate="11.9"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="2789" hrHyoRate="8.8"/>
+      <prty prtyId="227" prtyDispOdr="5" bcstPrtyNm="参政" hrHyo="1007" hrHyoRate="3.2"/>
+      <prty prtyId="4" prtyDispOdr="6" bcstPrtyNm="共産" hrHyo="1000" hrHyoRate="3.2"/>
+      <prty prtyId="197" prtyDispOdr="7" bcstPrtyNm="国民" hrHyo="992" hrHyoRate="3.1"/>
+      <prty prtyId="212" prtyDispOdr="8" bcstPrtyNm="れいわ" hrHyo="983" hrHyoRate="3.1"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="647" hrHyoRate="2.0"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="456" hrHyoRate="1.4"/>
+      <prty prtyId="85" prtyDispOdr="11" bcstPrtyNm="幸福" hrHyo="122" hrHyoRate="0.4"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="110" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="76" hrHyoRate="0.2"/>
+      <prty prtyId="43" prtyDispOdr="14" bcstPrtyNm="新風" hrHyo="56" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="36" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="43" pftNm="熊本" hrVtCntRate="28" hrHyoSum="193469">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="93694" hrHyoRate="48.4"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="27576" hrHyoRate="14.3"/>
+      <prty prtyId="187" prtyDispOdr="3" bcstPrtyNm="維新" hrHyo="18231" hrHyoRate="9.4"/>
+      <prty prtyId="195" prtyDispOdr="4" bcstPrtyNm="立民" hrHyo="18015" hrHyoRate="9.3"/>
+      <prty prtyId="227" prtyDispOdr="5" bcstPrtyNm="参政" hrHyo="6996" hrHyoRate="3.6"/>
+      <prty prtyId="212" prtyDispOdr="6" bcstPrtyNm="れいわ" hrHyo="6127" hrHyoRate="3.2"/>
+      <prty prtyId="4" prtyDispOdr="7" bcstPrtyNm="共産" hrHyo="6018" hrHyoRate="3.1"/>
+      <prty prtyId="197" prtyDispOdr="8" bcstPrtyNm="国民" hrHyo="5954" hrHyoRate="3.1"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="4547" hrHyoRate="2.4"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="4454" hrHyoRate="2.3"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="639" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="634" hrHyoRate="0.3"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="269" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="174" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="138" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="44" pftNm="大分" hrVtCntRate="12" hrHyoSum="55988">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="21921" hrHyoRate="39.2"/>
+      <prty prtyId="195" prtyDispOdr="2" bcstPrtyNm="立民" hrHyo="9036" hrHyoRate="16.1"/>
+      <prty prtyId="3" prtyDispOdr="3" bcstPrtyNm="公明" hrHyo="7122" hrHyoRate="12.7"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="4012" hrHyoRate="7.2"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="3541" hrHyoRate="6.3"/>
+      <prty prtyId="5" prtyDispOdr="6" bcstPrtyNm="社民" hrHyo="3022" hrHyoRate="5.4"/>
+      <prty prtyId="4" prtyDispOdr="7" bcstPrtyNm="共産" hrHyo="2341" hrHyoRate="4.2"/>
+      <prty prtyId="212" prtyDispOdr="8" bcstPrtyNm="れいわ" hrHyo="1775" hrHyoRate="3.2"/>
+      <prty prtyId="227" prtyDispOdr="9" bcstPrtyNm="参政" hrHyo="1459" hrHyoRate="2.6"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="1082" hrHyoRate="1.9"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="281" hrHyoRate="0.5"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="203" hrHyoRate="0.4"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="122" hrHyoRate="0.2"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="40" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="29" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="45" pftNm="宮崎" hrVtCntRate="16" hrHyoSum="66338">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="30486" hrHyoRate="46.0"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="10570" hrHyoRate="15.9"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="8546" hrHyoRate="12.9"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="3506" hrHyoRate="5.3"/>
+      <prty prtyId="197" prtyDispOdr="5" bcstPrtyNm="国民" hrHyo="3087" hrHyoRate="4.7"/>
+      <prty prtyId="5" prtyDispOdr="6" bcstPrtyNm="社民" hrHyo="2419" hrHyoRate="3.6"/>
+      <prty prtyId="4" prtyDispOdr="7" bcstPrtyNm="共産" hrHyo="2389" hrHyoRate="3.6"/>
+      <prty prtyId="212" prtyDispOdr="8" bcstPrtyNm="れいわ" hrHyo="1882" hrHyoRate="2.8"/>
+      <prty prtyId="227" prtyDispOdr="9" bcstPrtyNm="参政" hrHyo="1650" hrHyoRate="2.5"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="1154" hrHyoRate="1.7"/>
+      <prty prtyId="85" prtyDispOdr="11" bcstPrtyNm="幸福" hrHyo="212" hrHyoRate="0.3"/>
+      <prty prtyId="232" prtyDispOdr="12" bcstPrtyNm="ごぼう" hrHyo="192" hrHyoRate="0.3"/>
+      <prty prtyId="43" prtyDispOdr="13" bcstPrtyNm="新風" hrHyo="107" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="14" bcstPrtyNm="第一" hrHyo="71" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="62" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="46" pftNm="鹿児島" hrVtCntRate="11" hrHyoSum="65990">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="32409" hrHyoRate="49.1"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="9663" hrHyoRate="14.6"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="8023" hrHyoRate="12.2"/>
+      <prty prtyId="187" prtyDispOdr="4" bcstPrtyNm="維新" hrHyo="4347" hrHyoRate="6.6"/>
+      <prty prtyId="4" prtyDispOdr="5" bcstPrtyNm="共産" hrHyo="2219" hrHyoRate="3.4"/>
+      <prty prtyId="197" prtyDispOdr="6" bcstPrtyNm="国民" hrHyo="2063" hrHyoRate="3.1"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="1919" hrHyoRate="2.9"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="1881" hrHyoRate="2.9"/>
+      <prty prtyId="5" prtyDispOdr="9" bcstPrtyNm="社民" hrHyo="1450" hrHyoRate="2.2"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="1360" hrHyoRate="2.1"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="189" hrHyoRate="0.3"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="175" hrHyoRate="0.3"/>
+      <prty prtyId="43" prtyDispOdr="13" bcstPrtyNm="新風" hrHyo="116" hrHyoRate="0.2"/>
+      <prty prtyId="207" prtyDispOdr="14" bcstPrtyNm="第一" hrHyo="97" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="15" bcstPrtyNm="くに" hrHyo="75" hrHyoRate="0.1"/>
+    </pft>
+    <pft nhkPftCd="47" pftNm="沖縄" hrVtCntRate="2" hrHyoSum="8275">
+      <prty prtyId="1" prtyDispOdr="1" bcstPrtyNm="自民" hrHyo="2528" hrHyoRate="30.6"/>
+      <prty prtyId="3" prtyDispOdr="2" bcstPrtyNm="公明" hrHyo="2155" hrHyoRate="26.0"/>
+      <prty prtyId="195" prtyDispOdr="3" bcstPrtyNm="立民" hrHyo="828" hrHyoRate="10.0"/>
+      <prty prtyId="4" prtyDispOdr="4" bcstPrtyNm="共産" hrHyo="566" hrHyoRate="6.8"/>
+      <prty prtyId="5" prtyDispOdr="5" bcstPrtyNm="社民" hrHyo="505" hrHyoRate="6.1"/>
+      <prty prtyId="187" prtyDispOdr="6" bcstPrtyNm="維新" hrHyo="484" hrHyoRate="5.9"/>
+      <prty prtyId="212" prtyDispOdr="7" bcstPrtyNm="れいわ" hrHyo="449" hrHyoRate="5.4"/>
+      <prty prtyId="227" prtyDispOdr="8" bcstPrtyNm="参政" hrHyo="266" hrHyoRate="3.2"/>
+      <prty prtyId="197" prtyDispOdr="9" bcstPrtyNm="国民" hrHyo="183" hrHyoRate="2.2"/>
+      <prty prtyId="229" prtyDispOdr="10" bcstPrtyNm="Ｎ党" hrHyo="179" hrHyoRate="2.2"/>
+      <prty prtyId="232" prtyDispOdr="11" bcstPrtyNm="ごぼう" hrHyo="62" hrHyoRate="0.7"/>
+      <prty prtyId="85" prtyDispOdr="12" bcstPrtyNm="幸福" hrHyo="42" hrHyoRate="0.5"/>
+      <prty prtyId="207" prtyDispOdr="13" bcstPrtyNm="第一" hrHyo="9" hrHyoRate="0.1"/>
+      <prty prtyId="231" prtyDispOdr="14" bcstPrtyNm="くに" hrHyo="9" hrHyoRate="0.1"/>
+      <prty prtyId="43" prtyDispOdr="15" bcstPrtyNm="新風" hrHyo="7" hrHyoRate="0.1"/>
+    </pft>
+  </hrBlk>
+</nhk-el:hsm>

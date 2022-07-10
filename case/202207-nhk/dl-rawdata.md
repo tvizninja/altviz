@@ -1,0 +1,5 @@
+curl -s -o "hsm12.xml" "https://www.nhk.or.jp/senkyo-data/database/sangiin/2022/00/17990/xml/ka/hsm12.xml"
+curl -s -o "sindex.csv" "https://www.nhk.or.jp/senkyo-data/database/sangiin/2022/00/search/sindex.csv"
+curl -s -o "questions.json" "https://www.nhk.or.jp/senkyo-data/database/sangiin/2022/survey/questions.json"
+curl -s -o "hireiKoho.csv" "https://www.nhk.or.jp/senkyo-data/database/sangiin/2022/survey/hireiKoho.csv"
+curl -s -o "hirei.json" "https://www.nhk.or.jp/senkyo-data/database/sangiin/2022/survey/hirei.json"

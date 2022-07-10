@@ -1,0 +1,2938 @@
+[
+    {
+        "candidateID": 32660,
+        "lastname": "佐野",
+        "firstname": "正人",
+        "lastname_kana": "さの",
+        "firstname_kana": "まさと",
+        "sex": 1,
+        "birthday": "1967/10/11",
+        "email": "sano.masato.1011@gmail.com",
+        "touha": 187,
+        "touha_name": "維新",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "元千葉県習志野市議会議員",
+        "katagaki2": "市民団体顧問",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 54,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 12,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/06/17 19:13:21",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "外交・安全保障政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "あまり評価しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "どちらかといえば経済活動の回復"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "変えるべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "どちらかといえば経済対策"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "さらに強めるべきだ"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "大幅に増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要がある"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "下げるべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "主力電源とするべき"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "ふるさと千葉県を愛する気持ちは人一倍強いと自負していますが、国会議員は国民の代表である点を考慮して本項目には回答しません。<br>"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "首都圏に位置しながら自然に恵まれ、温暖な気候と海産物などの食べ物も美味しいところ。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "参議院選挙の出馬"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "特にありません"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "猫と触れ合うとき。ビールの最初の一口。睡眠に入る前。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 3487,
+        "lastname": "斉藤",
+        "firstname": "和子",
+        "lastname_kana": "さいとう",
+        "firstname_kana": "かずこ",
+        "sex": 2,
+        "birthday": "1974/09/29",
+        "email": "saitokazuko9@yahoo.co.jp",
+        "touha": 4,
+        "touha_name": "共産",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 1,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "元衆議院議員",
+        "katagaki2": "共産党中央委員",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 47,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 11,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/06/09 11:03:41",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "教育・こども政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "全く評価しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "どちらかといえば感染拡大の防止"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "ある程度減らすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要はない"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "ゼロにすべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "すべての電源を再エネでまかなうべき"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "憲法改正"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "お金の心配なく生きられる医療、福祉の充実。子どもの医療費、給食費は無料に。有機農産物の学校給食の実現。再生産可能な価格を補償し食料増産。小規模多様な自然エネルギーの活用。消費税減税。賃上げ。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "農林水産業があり、すべての食材がそろう。豊かな自然、伝統文化。世界とつながる成田空港。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "結婚。"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "幸いなことに今のところない。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "子どもと一緒に布団に入って、子どもがお話をしてくれる時。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 3980,
+        "lastname": "臼井",
+        "firstname": "正一",
+        "lastname_kana": "うすい",
+        "firstname_kana": "しょういち",
+        "sex": 1,
+        "birthday": "1975/01/08",
+        "email": "usui@shoichi.info",
+        "touha": 1,
+        "touha_name": "自民",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "元千葉県議会議員",
+        "katagaki2": "千葉県肢体不自由児協会理事長",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 47,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 3,
+        "suisen": "公明",
+        "shiji": "",
+        "answerDatetime": "2022/06/06 20:53:06",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "憲法改正"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "ある程度評価する"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "どちらかといえば経済活動の回復"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "不要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "どちらかといえばAに近い"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "適切だ"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "ある程度増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要がある"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "高めるべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "今の程度でよい"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "解消すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "外交・安全保障"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "道路網の整備や中小企業振興、農林水産業の支援などを行い、県内どのエリアでも人々が仕事に就け結婚し子育てができる、豊かに平和に暮らしていける地方創生に取り組みたい。<br>"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "豊富な観光地や白砂青松の景勝地、豊かな里山や田畑など。まさに遊、就、学、住揃った素晴らしいところ。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "サラリーマンを辞め、家内にも仕事を辞めさせて県議会議員選挙に挑戦したこと。"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "数年前、ゴルバチョフさんにお会いした際に声をかけそびれたこと。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "食事や旅行など、家族と共に過ごす時間。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 40908,
+        "lastname": "七海",
+        "firstname": "ひろこ",
+        "lastname_kana": "ななみ",
+        "firstname_kana": "ひろこ",
+        "sex": 2,
+        "birthday": "1984/08/01",
+        "email": "hiroko.nanami@hr-party.jp",
+        "touha": 85,
+        "touha_name": "幸福",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "幸福実現党財務局長",
+        "katagaki2": "元通信関連会社社員",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 37,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 2,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/06/17 18:02:34",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "外交・安全保障政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "あまり評価しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "どちらかといえば経済活動の回復"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "変えるべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "どちらかといえば財政健全化"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "どちらかといえばBに近い"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "金融引き締めに転じるべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "厳しすぎる"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "大幅に増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "見直すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要がある"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "高めるべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "減らすべき"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "解消すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "まず国防の不安を払拭し正義ある平和を実現。同時に物価高・電気代高騰から家計、産業を守るため政府の無駄遣いを“減量”、消費税等大幅減税、原発再稼働、ウクライナ戦争の停戦を仲介し、自由と繁栄を実現したい。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "海、山、川、花、動物と自然に溢れ食べ物は美味しく人が優しいところ。太平洋に面し新文明の源流を感じる。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "31歳当時、東京都知事選に出馬すると決めたとき。ナポレオン・ヒルの29秒の決断を思い出し即断でした。"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "失敗ばかりの毎日ですが、反省を習慣にし常勝思考で、失敗を次の成功の種に転じていきたいと考えている。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "政治活動での新たな出会いや人に喜んでいただけたとき。子供達が将来の夢を元気に笑顔で話してくれるとき。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 43909,
+        "lastname": "椎名",
+        "firstname": "亮太",
+        "lastname_kana": "しいな",
+        "firstname_kana": "りょうた",
+        "sex": 1,
+        "birthday": "1984/06/03",
+        "email": "sanseito.chiba.sentai@gmail.com",
+        "touha": 227,
+        "touha_name": "参政",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "元千葉県銚子市議会議員",
+        "katagaki2": "リサイクル関連会社代表取締役",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 38,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 6,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/06/08 03:20:01",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "教育・こども政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "経済活動の回復"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "変えるべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "金融引き締めに転じるべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "厳しすぎる"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "大幅に増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "見直すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "下げるべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "減らすべき"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "政権に対する評価"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "①海外資本から国益を守る。<br>②学校給食の見直し。<br>③現在の農業の見直しと漁業の拡充。<br>④自国民の所得増加。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "海の幸、山の幸、街に集う楽し人達。地産地消できる食材、産業、漁業、農業、林業等は日本トップクラス。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "子供達の未来を創る為、今夏の参議院議員選挙へ出馬！"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "全ては学びと思います。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "子供達の笑顔を観た時。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 49277,
+        "lastname": "中村",
+        "firstname": "典子",
+        "lastname_kana": "なかむら",
+        "firstname_kana": "のりこ",
+        "sex": 2,
+        "birthday": "1977/09/10",
+        "email": "nakamuranoriko77@gmail.com",
+        "touha": 229,
+        "touha_name": "Ｎ党",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "元千葉県松戸市議会議員",
+        "katagaki2": "",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 44,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 8,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/07/04 11:47:21",
+        "qa": [
+            {
+                "id": "0",
+                "answers": []
+            },
+            {
+                "id": "1",
+                "answers": []
+            },
+            {
+                "id": "2",
+                "answers": []
+            },
+            {
+                "id": "3",
+                "answers": []
+            },
+            {
+                "id": "4",
+                "answers": []
+            },
+            {
+                "id": "5",
+                "answers": []
+            },
+            {
+                "id": "6",
+                "answers": []
+            },
+            {
+                "id": "7",
+                "answers": []
+            },
+            {
+                "id": "8",
+                "answers": []
+            },
+            {
+                "id": "9",
+                "answers": []
+            },
+            {
+                "id": "10",
+                "answers": []
+            },
+            {
+                "id": "11",
+                "answers": []
+            },
+            {
+                "id": "12",
+                "answers": []
+            },
+            {
+                "id": "13",
+                "answers": []
+            },
+            {
+                "id": "14",
+                "answers": []
+            },
+            {
+                "id": "15",
+                "answers": []
+            },
+            {
+                "id": "16",
+                "answers": []
+            },
+            {
+                "id": "17",
+                "answers": []
+            },
+            {
+                "id": "18",
+                "answers": []
+            },
+            {
+                "id": "19",
+                "answers": []
+            },
+            {
+                "id": "20",
+                "answers": []
+            },
+            {
+                "id": "21",
+                "answers": []
+            },
+            {
+                "id": "22",
+                "answers": []
+            },
+            {
+                "id": "23",
+                "answers": []
+            },
+            {
+                "id": "24",
+                "answers": []
+            },
+            {
+                "id": "12_0",
+                "answers": []
+            },
+            {
+                "id": "12_1",
+                "answers": []
+            },
+            {
+                "id": "12_2",
+                "answers": []
+            },
+            {
+                "id": "12_3",
+                "answers": []
+            },
+            {
+                "id": "12_4",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "candidateID": 52567,
+        "lastname": "渡辺",
+        "firstname": "晋宏",
+        "lastname_kana": "わたなべ",
+        "firstname_kana": "くにひろ",
+        "sex": 1,
+        "birthday": "1985/09/10",
+        "email": "nougyoutou@gmail.com",
+        "touha": 229,
+        "touha_name": "Ｎ党",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "農業関連会社経営",
+        "katagaki2": "政治団体代表",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 36,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 4,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/07/04 07:27:54",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "農林水産政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "あまり評価しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "経済活動の回復"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "変えるべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "どちらかといえばBに近い"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "厳しすぎる"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "ある程度増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "見直すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要がある"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "高めるべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "今の程度でよい"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "その他"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "国家戦略特区など、農業の規制緩和を推進、特にセカンドキャリアの方に、農業に参加いただく事によって、日々畑に出かける、結果、健康的な生活を送る事によって、医療費削減を目指します。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "世界から見て、千葉は日本の玄関、まだまだ世界と戦えるポテンシャルを秘めている、伸びしろしかない。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "2020野田市議会議員補欠選挙に立候補した事、そこから政治の世界に飛び込む事が出来た為。"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "幼少期、祖父のトラクターを清掃中、誤って機械を操作してしまい、兄を傷つけてしまった事。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "周りの人が思いっきり笑った笑顔を見られた時や、子供達がご飯を食べたり、子供達の寝顔。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 52686,
+        "lastname": "梓",
+        "firstname": "まり",
+        "lastname_kana": "あずさ",
+        "firstname_kana": "まり",
+        "sex": 2,
+        "birthday": "1971/02/21",
+        "email": "fukumusuko@citrus.ocn.ne.jp",
+        "touha": 231,
+        "touha_name": "くに",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "新党くにもり千葉代表",
+        "katagaki2": "飲食関連会社役員",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 51,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 10,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/06/17 12:03:33",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "経済政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "全く評価しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "経済活動の回復"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "変えるべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "大幅に増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "見直すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要がある"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "どちらともいえない"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "高めるべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "減らすべき"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "解消すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "消費税減税と積極財政によって経済をV字回復、県民の実質賃金を上昇させたい。国土強靱化、国防力強化、国防予算倍増等で、県民の命と人生を守る新しい保守の流れを作りたい。自衛官の待遇改善も必要だと思います。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "千葉県民の皆さんの大らかで温かい人柄が好きです。みんなで豊かになる明るい千葉の未来を作りたいです。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "6年前、末期寸前の卵管ガンに罹患。余命宣告をされた時、残りの人生で日本への恩返しを決断。ガンは完治。"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "当時間違った選択も大病したことも、今ではその経験や病に感謝できているので、失敗とは思っていないです。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "街頭演説中に、手を振ってくださったり励ましのお言葉をいただいた時。本当に元気になります。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 53222,
+        "lastname": "須田",
+        "firstname": "良",
+        "lastname_kana": "すだ",
+        "firstname_kana": "りょう",
+        "sex": 1,
+        "birthday": "1991/07/15",
+        "email": "daasuu135@gmail.com",
+        "touha": 229,
+        "touha_name": "Ｎ党",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "ユーチューバー",
+        "katagaki2": "元携帯電話販売会社社員",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 30,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 13,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/06/07 20:23:33",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "教育・こども政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "経済活動の回復"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "変えるべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "生配信をより身近なものにし、選挙や困り事など密接かつ風通しが良いものにする。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "ディズニーランドがあること"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "会社員から生配信の世界に入ったこと"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "特に無し"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "人に感謝されるとき"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 53223,
+        "lastname": "記内",
+        "firstname": "恵",
+        "lastname_kana": "きない",
+        "firstname_kana": "めぐみ",
+        "sex": 2,
+        "birthday": "1974/12/03",
+        "email": "kouhou@japan-first.net",
+        "touha": 207,
+        "touha_name": "第一",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "日本第一党北海道本部長",
+        "katagaki2": "准看護師",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 47,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 5,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/06/13 15:48:18",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "経済政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "全く評価しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "どちらかといえば感染拡大の防止"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "どちらかといえば経済対策"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "さらに強めるべきだ"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "大幅に増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "見直すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要がある"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "高めるべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "減らすべき"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "日本人が先ず生活しやすい環境にする事。<br>⚫︎日本人に生活給付金を給付<br>⚫︎ 日本人学生の奨学金を給付型にする<br>⚫︎日本人の出産費無料化<br>⚫︎保育園を増やし、保育士給与を上げる。保育園費無料化"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "尊敬する先輩が居る。<br>海山があり故郷に似ているところがある。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "政治家を目指し、発信者となった事。"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "多忙で子供中心の生活にしてこられなかった事。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "美味しいものを大切な方々と一緒に食べる事。<br>各種活動で充実感を得られる事。<br>お猫様と一緒に寝る事。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 53232,
+        "lastname": "宇田",
+        "firstname": "桜子",
+        "lastname_kana": "うた",
+        "firstname_kana": "さくらこ",
+        "sex": 2,
+        "birthday": "1980/08/25",
+        "email": "sakurako0825@hotmail.com",
+        "touha": 29,
+        "touha_name": "諸派",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "化粧品会社社長",
+        "katagaki2": "元千葉大学医学部非常勤職員",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 41,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 14,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/06/17 01:09:26",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "教育・こども政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "あまり評価しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "経済活動の回復"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "変えるべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "どちらかといえば経済対策"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "Bに近い"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "厳しすぎる"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "今の程度でよい"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要はない"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "下げるべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "主力電源とするべき"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "解消すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "憲法改正"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "一児の母として千葉にいる子育て世帯の声を国会に届けたいです。また、No More 薬害・自殺・戦争を掲げ、これ以上日本人口に直結する千葉県人口が減らないための少子化対策を進めていきたいです。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "都心に近いのに、自然がたくさんあってのどかなところ。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "議員の経験もないし想像もつかないのに、今こうして失敗を顧みず参議院選挙に立候補していること"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "失敗・挫折はいっぱいあるけれど、最終的にはそれがあってこそ今の良い人生があるので、失敗ではなかった。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "家族・友人・仕事仲間と意見交換したり、他愛もない話をしたり、ネタを提供し合って、笑うこと。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 5530,
+        "lastname": "小西",
+        "firstname": "洋之",
+        "lastname_kana": "こにし",
+        "firstname_kana": "ひろゆき",
+        "sex": 1,
+        "birthday": "1972/01/28",
+        "email": "hiroyuki_konishi55@sangiin.go.jp",
+        "touha": 195,
+        "touha_name": "立民",
+        "genshoku_flg": 1,
+        "genshoku_flg_name": "現",
+        "rikkouhoji_tousennsu": 2,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 2,
+        "katagaki1": "立憲民主党政務調査会副会長",
+        "katagaki2": "元総務省課長補佐",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 50,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 7,
+        "suisen": "社民県連合",
+        "shiji": "",
+        "answerDatetime": "2022/06/21 10:14:53",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "社会保障政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "全く評価しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "どちらかといえば感染拡大の防止"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "どちらかといえば経済対策"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "どちらかといえばAに近い"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "金融引き締めに転じるべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "さらに強めるべきだ"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "ある程度増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要はない"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "反対"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "ゼロにすべき"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "主力電源とするべき"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "解消すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "その他"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "24年の医療法第八次医療計画の県計画を循環器病対策基本法で導入したロジックモデルで策定する（国会決議あり）。立法済みの保育園安全計画、いじめ防止法改正、通学路安全確保法の制定などの成果を千葉に活かす。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "すぐ近くに豊かな自然があり、海の幸山の幸に恵まれていること。暮らし、産業などが日本の縮図であること。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "2010年に総務省を退職し、政治の世界に身を投じたこと。"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "専門予備校でしか入手できない過去問の焼き直しが中心の国家公務員試験に独学で受験し一度失敗したこと。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "支援者や市民の皆さんから励ましの言葉を頂く時。街宣をしていて小さなあどけない子ども達の笑顔を見る時。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 7388,
+        "lastname": "礒部",
+        "firstname": "裕和",
+        "lastname_kana": "いそべ",
+        "firstname_kana": "ひろかず",
+        "sex": 1,
+        "birthday": "1981/09/14",
+        "email": "hiro0914@icloud.com",
+        "touha": 197,
+        "touha_name": "国民",
+        "genshoku_flg": 3,
+        "genshoku_flg_name": "新",
+        "rikkouhoji_tousennsu": 0,
+        "rikkouhoji_tousennsu_shu": 0,
+        "rikkouhoji_tousennsu_san": 0,
+        "katagaki1": "元千葉県議会議員",
+        "katagaki2": "国民民主党千葉県連代表",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 40,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 9,
+        "suisen": "",
+        "shiji": "",
+        "answerDatetime": "2022/06/07 14:52:03",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "経済政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "あまり評価しない"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "どちらかといえば経済活動の回復"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "必要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "どちらかといえばAに近い"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "さらに強めるべきだ"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "ある程度増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要がある"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "今の程度でよい"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "今の程度でよい"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "解消すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "経済対策"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "成田空港第3滑走路・千葉港のハブ化、第二湾岸・銚子連絡道・北千葉道路など高規格幹線道路、地下鉄8号線・都心直結線・京葉線複々線化等鉄道事業などの事業加速化を通じて将来への経済成長に資する基盤を整える。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "縄文から鎌倉殿、戦国、江戸、明治に至る様々な歴史の舞台かつ新たな歴史を紡ぎ出す可能性があること。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "千葉県議会議員を辞職して今回の参議院議員選挙に立候補しようと決めたこと。"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "大学オーケストラに熱中しすぎて留年して親に迷惑をかけたこと。"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "家に帰って妻と3人の息子と一緒にいる時。"
+                ]
+            }
+        ]
+    },
+    {
+        "candidateID": 741,
+        "lastname": "猪口",
+        "firstname": "邦子",
+        "lastname_kana": "いのぐち",
+        "firstname_kana": "くにこ",
+        "sex": 2,
+        "birthday": "1952/05/03",
+        "email": "kuniko_inoguchi@sangiin.go.jp",
+        "touha": 1,
+        "touha_name": "自民",
+        "genshoku_flg": 1,
+        "genshoku_flg_name": "現",
+        "rikkouhoji_tousennsu": 2,
+        "rikkouhoji_tousennsu_shu": 1,
+        "rikkouhoji_tousennsu_san": 2,
+        "katagaki1": "元少子化担当大臣",
+        "katagaki2": "元軍縮会議日本政府代表部大使",
+        "senkyoID": 17990,
+        "senkyo_name": "第26回参議院選挙（R4年）",
+        "senkyo_touhyoubi": "2022/07/10",
+        "age": 70,
+        "senkyokuID": 50756,
+        "senkyoku_name": "千葉県",
+        "todoufukenID": [
+            12
+        ],
+        "todokede": 1,
+        "suisen": "公明",
+        "shiji": "",
+        "answerDatetime": "2022/06/07 19:47:32",
+        "qa": [
+            {
+                "id": "0",
+                "answers": [
+                    "外交・安全保障政策"
+                ]
+            },
+            {
+                "id": "1",
+                "answers": [
+                    "大いに評価する"
+                ]
+            },
+            {
+                "id": "2",
+                "answers": [
+                    "どちらかといえば感染拡大の防止"
+                ]
+            },
+            {
+                "id": "3",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "4",
+                "answers": [
+                    "どちらかといえば財政健全化"
+                ]
+            },
+            {
+                "id": "5",
+                "answers": [
+                    "不要"
+                ]
+            },
+            {
+                "id": "6",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "7",
+                "answers": [
+                    "どちらかといえばAに近い"
+                ]
+            },
+            {
+                "id": "8",
+                "answers": [
+                    "金融引き締めに転じるべき"
+                ]
+            },
+            {
+                "id": "9",
+                "answers": [
+                    "適切だ"
+                ]
+            },
+            {
+                "id": "10",
+                "answers": [
+                    "大幅に増やすべき"
+                ]
+            },
+            {
+                "id": "11",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "12",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "13",
+                "answers": [
+                    "改正する必要がある"
+                ]
+            },
+            {
+                "id": "14",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "15",
+                "answers": [
+                    "賛成"
+                ]
+            },
+            {
+                "id": "16",
+                "answers": [
+                    "今の程度でよい"
+                ]
+            },
+            {
+                "id": "17",
+                "answers": [
+                    "主力電源とするべき"
+                ]
+            },
+            {
+                "id": "18",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "19",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "20",
+                "answers": [
+                    "どちらかといえば反対"
+                ]
+            },
+            {
+                "id": "21",
+                "answers": [
+                    "維持すべき"
+                ]
+            },
+            {
+                "id": "22",
+                "answers": [
+                    "どちらかといえば賛成"
+                ]
+            },
+            {
+                "id": "23",
+                "answers": [
+                    "回答しない"
+                ]
+            },
+            {
+                "id": "24",
+                "answers": [
+                    "外交・安全保障"
+                ]
+            },
+            {
+                "id": "12_0",
+                "answers": [
+                    "成田空港機能強化と道路・鉄道アクセス強化で首都圏経済を活性化したい。世界水準の雄大な自然の魅力を活かして国際会議誘致や観光推進を行いたい。母になるなら千葉県で、と若い世代に良質な支援を提供したい。"
+                ]
+            },
+            {
+                "id": "12_1",
+                "answers": [
+                    "菜の花は千葉の県花。祖母の生まれた大多喜町の町の花。穏やかな自然と県民の優しさが好き。街が魅力的。"
+                ]
+            },
+            {
+                "id": "12_2",
+                "answers": [
+                    "結婚と留学。大学教授から国会議員に転じたとき。"
+                ]
+            },
+            {
+                "id": "12_3",
+                "answers": [
+                    "思いつかない"
+                ]
+            },
+            {
+                "id": "12_4",
+                "answers": [
+                    "家族との食事時間。夫と国際政治学の仲間のことや理論を話す時間。文章を書く時間。海外の論説を読む時間。"
+                ]
+            }
+        ]
+    }
+]
